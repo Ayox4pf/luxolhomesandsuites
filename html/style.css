@@ -554,6 +554,7 @@ section{
     .map{
         display: flex;
         padding: 5rem;
+        position: relative;
     }
     .map-wrap{
         background-image: linear-gradient(to right, #8f50fb, #fa9e2c);
