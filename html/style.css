@@ -550,12 +550,3 @@ section{
             flex: 0 0 30%;
         }
     }
-/*map style*/
-    .map{
-        display: flex;
-        padding: 5rem;
-        position: relative;
-    }
-    .map-wrap{
-        background-image: linear-gradient(to right, #8f50fb, #fa9e2c);
-    }
